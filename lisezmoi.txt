@@ -1,2 +1,4 @@
 bienvenue
 je suis dans devA
+
+je suis dans devB
